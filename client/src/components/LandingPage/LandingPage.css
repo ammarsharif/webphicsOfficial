@@ -1,0 +1,85 @@
+* {
+  font-family: "Poppins", sans-serif;
+  /* margin-top: 100px; */
+}
+.imgBg {
+  background-color: rgb(202, 202, 202);
+  background-blend-mode: multiply;
+  opacity: 0.92;
+}
+.blur {
+  filter: blur(5px);
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+}
+
+img {
+  height: 80px;
+  width: 140px;
+}
+.btnTest {
+  border-radius: 10px;
+  border: 3px solid #fbbc05;
+  position: absolute;
+  width: 120px;
+  height: 50px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 25px;
+  color: rgb(0, 0, 0);
+  background-color: transparent !important;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.btnTest:hover {
+  background-color: #fbbc05 !important;
+  color: white;
+}
+.btnSign {
+  border-radius: 10px;
+  border: 2px solid #fbbc05;
+  position: absolute;
+  width: 120px;
+  height: 50px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 25px;
+  color: white;
+  background-color: #fbbc05 !important;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.orange {
+  color: #fbbc05;
+}
+.btnFree {
+  border-radius: 10px;
+  border: 2px solid #fbbc05;
+  position: absolute;
+  width: 120px;
+  height: 50px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 25px;
+  color: white;
+  background-color: #fbbc05 !important;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.fontweight {
+  font-weight: 700;
+}
+.top {
+  position: absolute;
+  margin-top: 6%;
+  left: 4%;
+}
+.Desc {
+  margin-top: 10%;
+}
+.disc {
+  color: rgb(131, 131, 131) !important;
+}
+.picQues img {
+  height: 300px;
+  width: 300px;
+}
